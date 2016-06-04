@@ -1,0 +1,20 @@
+topic_group,topic_title,topic_short_title
+cross-domain,"Information, Communications, & Archives",Information
+cross-domain,"Statistics, Demographics, & Performance Analytics",Statistics
+cross-domain,"Science, Technology, & Space",Science
+cross-domain,"Arts, Culture, & Recreation",Culture
+departmental,Finance,Finance
+departmental,Commerce & Industry,Industry
+departmental,Public Safety & National Security,Public Safety
+departmental,Environment & Natural Resources,Environment
+departmental,Transportation & Infrastructure,Infrastructure
+departmental,Education & Workforce Development,Education
+departmental,Agriculture,Agriculture
+departmental,Energy,Energy
+departmental,Health,Health
+departmental,Housing & Development,Housing
+departmental,Social Services,Social Services
+intergovernmental,Elections & Legislation,Politics
+intergovernmental,Law & Justice,Law
+intergovernmental,General Government & Public Administration,Public Administration
+intergovernmental,International Relations,International Relations
